@@ -1,0 +1,2 @@
+# django-jetadmin
+admin template 
